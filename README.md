@@ -31,4 +31,10 @@ NPM (gerenciador de pacotes do Node.js)
 Exemplo:
 ![image](https://github.com/lmbldev/Scrapper-Pokedex-NodeJS-Puppeteer/assets/121053332/994295cc-8e52-4446-9803-74c69cfee88b)
 
+## Execução
+### Após a configuração, você pode executar o web scraper. No diretório do projeto, execute o seguinte comando:
+"npm run start".
+
+O scraper irá abrir um navegador Chromium, que controlado pelo Puppeteer, navegará até a página configurada, extrairá os dados do elemento alvo e os exibirá no console.
+
 
