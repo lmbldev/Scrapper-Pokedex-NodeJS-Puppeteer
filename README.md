@@ -22,5 +22,13 @@ NPM (gerenciador de pacotes do Node.js)
 5- Instale as dependências do projeto:
 "npm install"
 
+## Configuração
+### Antes de executar o web scraper, é necessário fazer uma configuração. Siga os passos abaixo:
+
+1- Abra o arquivo index.js localizado na pasta raíz.
+
+2- Modifique o valor da variável "pokemon" para o nome do pokémon que deseja buscar:
+Exemplo:
+![image](https://github.com/lmbldev/Scrapper-Pokedex-NodeJS-Puppeteer/assets/121053332/994295cc-8e52-4446-9803-74c69cfee88b)
 
 
