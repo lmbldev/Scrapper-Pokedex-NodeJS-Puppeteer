@@ -36,11 +36,7 @@ const scraperObject = {
 				let newPage = await browser.newPage();
 				await newPage.goto(url);
 				// Aguarda o DOM requerido ser renderizado
-
-				dataObj['nome'] = await newPage.evaluate(() => {
-					let pokemondivs = document.querySelectorAll('.mw-parser-output table tbody tr td table tbody tr td big b');
-					return pokemondivs[1].innerText;
-				});
+			
 				dataObj['tipos'] = await newPage.evaluate(() => {
 					let divs = document.querySelectorAll('.modoclaroescuro table tbody tr td span a font ');
 					let tipos = "";
