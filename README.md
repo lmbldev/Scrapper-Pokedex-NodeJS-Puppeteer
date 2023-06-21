@@ -10,4 +10,17 @@ NPM (gerenciador de pacotes do Node.js)
 ## Instalação
 ### Siga as etapas abaixo para configurar e executar o projeto em sua máquina local:
 
-Clone o repositório do projeto:
+1- Abra um terminal.
+
+2- Clone o repositório do projeto:
+"git clone..."
+
+3- Acesse o diretório do projeto.
+
+4- Certifique-se que o terminal esteja executando no diretório do projeto.
+
+5- Instale as dependências do projeto:
+"npm install"
+
+
+
