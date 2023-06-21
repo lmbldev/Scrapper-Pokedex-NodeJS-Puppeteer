@@ -27,7 +27,7 @@ NPM (gerenciador de pacotes do Node.js)
 
 1- Abra o arquivo index.js localizado na pasta raíz.
 
-2- Modifique o valor da variável "pokemon" para o nome do pokémon que deseja buscar:
+2- Modifique o valor da variável "pokemon" para o nome, completo e com a primeira letra maiúscula, do pokémon que deseja buscar:
 Exemplo:
 ![image](https://github.com/lmbldev/Scrapper-Pokedex-NodeJS-Puppeteer/assets/121053332/b4ff5ddc-7e77-4860-8395-eb4819c0a4cc)
 
