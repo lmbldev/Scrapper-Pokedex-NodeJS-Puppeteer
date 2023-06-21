@@ -1,0 +1,15 @@
+{
+  "name": "scrapper-pokedex-nodejs-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Lucas Mello Bergamo de Lima",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^20.7.2"
+  }
+}
