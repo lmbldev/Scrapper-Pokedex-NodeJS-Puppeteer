@@ -13,7 +13,7 @@ NPM (gerenciador de pacotes do Node.js)
 1- Abra um terminal.
 
 2- Clone o repositório do projeto:
-"git clone..."
+"git clone https://github.com/lmbldev/Scrapper-Pokedex-NodeJS-Puppeteer.git"
 
 3- Acesse o diretório do projeto.
 
