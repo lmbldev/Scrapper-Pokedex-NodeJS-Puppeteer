@@ -29,7 +29,7 @@ NPM (gerenciador de pacotes do Node.js)
 
 2- Modifique o valor da variável "pokemon" para o nome do pokémon que deseja buscar:
 Exemplo:
-![image](https://github.com/lmbldev/Scrapper-Pokedex-NodeJS-Puppeteer/assets/121053332/994295cc-8e52-4446-9803-74c69cfee88b)
+![image](https://github.com/lmbldev/Scrapper-Pokedex-NodeJS-Puppeteer/assets/121053332/b4ff5ddc-7e77-4860-8395-eb4819c0a4cc)
 
 ## Execução
 ### Após a configuração, você pode executar o web scraper. No diretório do projeto, execute o seguinte comando:
